@@ -22,7 +22,7 @@
 
 > **Note:** If you are in android 12 or higher then first disable *Phantom Process Killer* **Guide:-** [Here](https://github.com/atamshkai/Phantom-Process-Killer)
    ```bash
-   Pkg install git
+   pkg install git
 git clone https://github.com/AnonymousAcademy/Termux_Desktop
 cd Termux_Desktop
 chmod 777 Termux_Desktop.sh
